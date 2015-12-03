@@ -6,7 +6,7 @@ except ImportError:
 setup(
     name='flask_clapi',
     packages=['flask_clapi'],
-    version='0.1.0',
+    version='0.2.0',
     description='CLAPI wrapper',
     install_requires=['clapi'],
     author='Robert Wikman',
@@ -14,7 +14,7 @@ setup(
     maintainer='Robert Wikman',
     maintainer_email='rbw@vault13.org',
     url='https://github.com/rbw0/flask_clapi',
-    download_url='https://github.com/rbw0/flask_clapi/tarball/0.1.0',
+    download_url='https://github.com/rbw0/flask_clapi/tarball/0.2.0',
     keywords=['flask', 'clapi', 'wrapper', 'Centreon'],
     classifiers=[],
     license='GPLv2',
